@@ -69,6 +69,7 @@ RUN export DEBIAN_FRONTEND=noninteractive DEBCONF_NONINTERACTIVE_SEEN=true && \
         r-cran-rinside \
         rsync \
         srm-ifce-dev \
+        supervisor \
         unixodbc-dev \
         unzip \
         vim \
